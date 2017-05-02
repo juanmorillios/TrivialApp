@@ -25,7 +25,7 @@ extension ViewController: UITableViewDelegate, UITableViewDataSource {
   }
   
   func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-    return 3
+    return 5
   }
   
   func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
@@ -34,7 +34,7 @@ extension ViewController: UITableViewDelegate, UITableViewDataSource {
     
     cell.titleLabel.text = "Title Label"
     cell.subTitleLabel.text = "SubTitle Label"
-    cell.imageName.image = UIImage(named: "presidentes")
+    cell.imageName.image = UIImage(named: "playas")
     
     return cell
   }

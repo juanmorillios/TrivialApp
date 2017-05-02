@@ -13,6 +13,7 @@
 		871FC48B1EB39CDA00448C26 /* TrivialApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 871FC4891EB39CDA00448C26 /* TrivialApp.xcdatamodeld */; };
 		871FC48D1EB39CDA00448C26 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 871FC48C1EB39CDA00448C26 /* Assets.xcassets */; };
 		871FC4901EB39CDA00448C26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 871FC48E1EB39CDA00448C26 /* LaunchScreen.storyboard */; };
+		87ACB91B1EB8D25100E41C5F /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87ACB91A1EB8D25100E41C5F /* CustomTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		871FC48C1EB39CDA00448C26 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		871FC48F1EB39CDA00448C26 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		871FC4911EB39CDA00448C26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87ACB91A1EB8D25100E41C5F /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				871FC4821EB39CDA00448C26 /* AppDelegate.swift */,
 				871FC4841EB39CDA00448C26 /* ViewController.swift */,
 				871FC4861EB39CDA00448C26 /* Main.storyboard */,
+				87ACB91A1EB8D25100E41C5F /* CustomTableViewCell.swift */,
 				871FC48C1EB39CDA00448C26 /* Assets.xcassets */,
 				871FC48E1EB39CDA00448C26 /* LaunchScreen.storyboard */,
 				871FC4911EB39CDA00448C26 /* Info.plist */,
@@ -141,6 +144,7 @@
 			files = (
 				871FC48B1EB39CDA00448C26 /* TrivialApp.xcdatamodeld in Sources */,
 				871FC4851EB39CDA00448C26 /* ViewController.swift in Sources */,
+				87ACB91B1EB8D25100E41C5F /* CustomTableViewCell.swift in Sources */,
 				871FC4831EB39CDA00448C26 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -271,6 +275,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.juanmorillios.TrivialApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -283,6 +288,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.juanmorillios.TrivialApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -305,6 +311,7 @@
 				871FC4961EB39CDA00448C26 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

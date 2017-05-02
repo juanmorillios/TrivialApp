@@ -29,7 +29,7 @@
                                     <constraint firstAttribute="height" constant="603" id="Qt0-Fy-GeC"/>
                                 </constraints>
                                 <prototypes>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="cell" id="isD-QI-uer">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="blue" accessoryType="disclosureIndicator" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="cell" id="isD-QI-uer" customClass="CustomTableViewCell" customModule="TrivialApp" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="28" width="375" height="99"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="isD-QI-uer" id="whs-7p-6ks">
@@ -57,6 +57,9 @@
                                             </subviews>
                                         </tableViewCellContentView>
                                         <connections>
+                                            <outlet property="imageName" destination="4JH-OQ-P4H" id="qJs-Zu-dbY"/>
+                                            <outlet property="subTitleLabel" destination="0mA-9x-ONd" id="US0-lD-J88"/>
+                                            <outlet property="titleLabel" destination="ocO-eC-4us" id="Ol6-bg-uET"/>
                                             <segue destination="yzu-8T-E1f" kind="show" id="UcJ-hT-NvW"/>
                                         </connections>
                                     </tableViewCell>
@@ -73,7 +76,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1337" y="-88"/>
+            <point key="canvasLocation" x="1336.8" y="-88.605697151424295"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="JnW-zh-gYc">

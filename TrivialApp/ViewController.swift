@@ -8,32 +8,35 @@
 
 import UIKit
 
-class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
+class ViewController: UIViewController  {
 
   override func viewDidLoad() {
     super.viewDidLoad()
     
-  
   }
   
+  
+}
+
+extension ViewController: UITableViewDelegate, UITableViewDataSource {
+
   func numberOfSections(in tableView: UITableView) -> Int {
     return 1
   }
-
-  func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-    return 10
   
+  func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+    return 3
   }
   
   func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
     
-    let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath) as!CustomTableViewCell
+    let cell = tableView.dequeueReusableCell(withIdentifier: "trivialCell", for: indexPath) as! CustomTableViewCell
+    
     cell.titleLabel.text = "Title Label"
     cell.subTitleLabel.text = "SubTitle Label"
-    cell.imageName.image = UIImage(named: "president")
+    cell.imageName.image = UIImage(named: "presidentes")
     
     return cell
   }
- 
-}
 
+}

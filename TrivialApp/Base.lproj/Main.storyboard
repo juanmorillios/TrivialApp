@@ -139,40 +139,67 @@
                                 </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6rl-gi-3Iw">
-                                <rect key="frame" x="16" y="385" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="16" y="385" width="61" height="40"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="20"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.96999999999999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E3l-is-471">
-                                <rect key="frame" x="164" y="385" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="156.5" y="385" width="61" height="40"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="20"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.96999999999999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="94o-6k-Xzl">
-                                <rect key="frame" x="313" y="385" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="298" y="385" width="61" height="40"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="20"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.96999999999999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JpN-qz-vD3">
-                                <rect key="frame" x="16" y="453" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="16" y="463" width="61" height="40"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="20"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.96999999999999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Ts-o5-5xx">
-                                <rect key="frame" x="164" y="453" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="156.5" y="463" width="61" height="40"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="20"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.96999999999999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Erg-Ee-l6N">
-                                <rect key="frame" x="313" y="453" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="298" y="463" width="61" height="40"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="20"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.96999999999999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nqg-lQ-vEz">
-                                <rect key="frame" x="16" y="535" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="16" y="543" width="61" height="40"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="20"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.96999999999999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="zb0-fc-Ot2">
-                                <rect key="frame" x="164" y="535" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="156.5" y="543" width="61" height="40"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="20"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.96999999999999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bK2-1M-epN">
-                                <rect key="frame" x="313" y="535" width="46" height="30"/>
-                                <state key="normal" title="Button"/>
+                                <rect key="frame" x="298" y="543" width="61" height="40"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Regular" family="Avenir Next" pointSize="20"/>
+                                <state key="normal" title="Button">
+                                    <color key="titleColor" white="0.96999999999999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Espacio para la pregunta" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4qb-Bz-bbl">
                                 <rect key="frame" x="0.0" y="64" width="375" height="60"/>
@@ -194,6 +221,7 @@
                             <constraint firstItem="E3l-is-471" firstAttribute="leading" secondItem="zb0-fc-Ot2" secondAttribute="leading" id="6kZ-Fd-tfV"/>
                             <constraint firstItem="P1i-ff-lMN" firstAttribute="top" secondItem="4qb-Bz-bbl" secondAttribute="bottom" constant="-1" id="7rm-Q8-ibC"/>
                             <constraint firstItem="bK2-1M-epN" firstAttribute="trailing" secondItem="2oI-is-DLy" secondAttribute="trailingMargin" id="ASa-P0-cET"/>
+                            <constraint firstItem="4qb-Bz-bbl" firstAttribute="centerX" secondItem="2oI-is-DLy" secondAttribute="centerX" id="Clr-iV-4cc"/>
                             <constraint firstItem="4qb-Bz-bbl" firstAttribute="leading" secondItem="2oI-is-DLy" secondAttribute="leading" id="D61-SI-qqJ"/>
                             <constraint firstItem="E3l-is-471" firstAttribute="top" secondItem="P1i-ff-lMN" secondAttribute="bottom" constant="16" id="DLC-Cd-aPw"/>
                             <constraint firstAttribute="trailing" secondItem="P1i-ff-lMN" secondAttribute="trailing" id="GKc-na-tm3"/>
@@ -202,13 +230,14 @@
                             <constraint firstItem="6rl-gi-3Iw" firstAttribute="leading" secondItem="2oI-is-DLy" secondAttribute="leadingMargin" id="KO0-vw-rsF"/>
                             <constraint firstItem="nqg-lQ-vEz" firstAttribute="leading" secondItem="2oI-is-DLy" secondAttribute="leadingMargin" id="MCO-U4-eaw"/>
                             <constraint firstAttribute="trailing" secondItem="4qb-Bz-bbl" secondAttribute="trailing" id="QfR-o4-cJ7"/>
-                            <constraint firstItem="nqg-lQ-vEz" firstAttribute="top" secondItem="JpN-qz-vD3" secondAttribute="bottom" constant="52" id="SGS-df-qXS"/>
+                            <constraint firstItem="nqg-lQ-vEz" firstAttribute="top" secondItem="JpN-qz-vD3" secondAttribute="bottom" constant="40" id="SGS-df-qXS"/>
                             <constraint firstItem="Erg-Ee-l6N" firstAttribute="trailing" secondItem="2oI-is-DLy" secondAttribute="trailingMargin" id="Sjo-6d-AuA"/>
                             <constraint firstItem="4qb-Bz-bbl" firstAttribute="top" secondItem="fJy-pm-WNI" secondAttribute="bottom" id="V6d-dt-psa"/>
                             <constraint firstItem="94o-6k-Xzl" firstAttribute="trailing" secondItem="2oI-is-DLy" secondAttribute="trailingMargin" id="drT-IK-ec9"/>
                             <constraint firstItem="E3l-is-471" firstAttribute="centerX" secondItem="P1i-ff-lMN" secondAttribute="centerX" id="jY1-bY-gob"/>
                             <constraint firstItem="Erg-Ee-l6N" firstAttribute="top" secondItem="94o-6k-Xzl" secondAttribute="bottom" constant="38" id="mfN-Cr-vnx"/>
                             <constraint firstItem="94o-6k-Xzl" firstAttribute="baseline" secondItem="E3l-is-471" secondAttribute="baseline" id="pVf-BZ-Q5U"/>
+                            <constraint firstItem="P1i-ff-lMN" firstAttribute="centerX" secondItem="4qb-Bz-bbl" secondAttribute="centerX" id="sSd-ec-yPU"/>
                             <constraint firstItem="8Ts-o5-5xx" firstAttribute="top" secondItem="E3l-is-471" secondAttribute="bottom" constant="38" id="t4x-Nu-WTd"/>
                             <constraint firstItem="94o-6k-Xzl" firstAttribute="baseline" secondItem="6rl-gi-3Iw" secondAttribute="baseline" id="u5s-D2-MO2"/>
                             <constraint firstItem="8Ts-o5-5xx" firstAttribute="baseline" secondItem="JpN-qz-vD3" secondAttribute="baseline" id="v6D-GH-Kb9"/>

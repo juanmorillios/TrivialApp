@@ -2,14 +2,14 @@
 <model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16E195" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
     <entity name="Cagorias" representedClassName="Cagorias" syncable="YES" codeGenerationType="class">
         <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
-        <attribute name="nombreCategoria" optional="YES" attributeType="String" syncable="YES"/>
-        <attribute name="nombreImagen" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nombrecategoria" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nombreimagen" optional="YES" attributeType="String" syncable="YES"/>
     </entity>
     <entity name="Preguntas" representedClassName="Preguntas" syncable="YES" codeGenerationType="class">
         <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
         <attribute name="idcategoria" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
-        <attribute name="opcionesRespuestas" optional="YES" attributeType="String" syncable="YES"/>
-        <attribute name="respuestaCorrecta" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="opcionesrespuestas" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="respuestacorrecta" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
     </entity>
     <entity name="Respuestas" representedClassName="Respuestas" syncable="YES" codeGenerationType="class">
         <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
